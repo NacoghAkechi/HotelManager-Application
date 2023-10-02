@@ -1,7 +1,7 @@
-﻿create database QLKS1
---DROP database QLKS1
+﻿create database HotelManagerDTBS
+--DROP database HotelManagerDTBS
 GO
-Use QLKS1
+Use HotelManagerDTBS
 GO
 															-- Mục lục --
 --1.Tạo các bảng trong cơ sở dữ liệu
