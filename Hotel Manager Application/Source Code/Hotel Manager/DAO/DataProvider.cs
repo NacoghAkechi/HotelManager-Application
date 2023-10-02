@@ -10,7 +10,7 @@ namespace QuanLyKhachSan.DAO
 {
     public class DataProvider
     {
-        private string connectionSTR = "Server=NACOGH;Database=QLKS;Trusted_Connection=True";
+        private string connectionSTR = "Server=NACOGH;Database=HotelManagerDTBS;Trusted_Connection=True";
         private static DataProvider instance;
 
         public static DataProvider Instance
